@@ -24,3 +24,6 @@ SQL-based attendance analysis to track absenteeism and department performance.
 ## 📫 Contact
 📧 gopisankaranmarimuthu@gmail.com  
 🔗 LinkedIn: ((https://www.linkedin.com/in/gopi-sankaran-marimuthu-819392350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+## Resume 
+[Gopi_Sankaran_UI:UX_Designer.pdf](https://github.com/user-attachments/files/25510715/Gopi_Sankaran_UI.UX_Designer.pdf)
+
